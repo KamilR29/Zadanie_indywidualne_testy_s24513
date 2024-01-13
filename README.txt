@@ -1,0 +1,1 @@
+Zadanie zostało wykonane w IntelijIDE. Katalog z testami znajduje się w katalogu src.
